@@ -1,0 +1,10 @@
+{
+    "HttpStatus": {
+      "OK": 200,
+      "INTERNAL_SERVER_ERROR": 500
+    },
+    "ERROR": {
+      "NOT_AUTHORIZED": "Request not authorized."
+    }
+}
+
